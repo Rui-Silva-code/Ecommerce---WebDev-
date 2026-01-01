@@ -9,7 +9,7 @@ Projeto académico simulando um e-commerce básico com catálogo, carrinho e flu
 
 ## Tecnologias utilizadas
 - PHP 7.4+ (back-end)  
-- MySQL / MariaDB  
+- MySQL 
 - HTML5, CSS3, Bootstrap  
 - JavaScript (carrinho e validações)
 
