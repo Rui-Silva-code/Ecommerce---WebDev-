@@ -1,8 +1,7 @@
 # E-commerce - Webdev (Demo)
 
 ## Visão geral
-Projeto académico simulando um e-commerce básico com catálogo, carrinho e fluxo de checkout (simulado). Demonstra integração **front-end e back-end** e operações **CRUD**.
-
+Projeto académico que simula um e-commerce básico, incluindo catálogo de produtos, carrinho de compras e fluxo de checkout (simulado). O projeto demonstra a integração entre front-end e back-end, bem como a implementação de operações CRUD.
 **Estado:** Demo / Não pronto para produção
 
 ---
